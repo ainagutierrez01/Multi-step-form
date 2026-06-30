@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://github.com/YOUR_USERNAME/YOUR_REPO)
-- Live Site URL: [GitHub Pages](https://YOUR_USERNAME.github.io/YOUR_REPO)
+- Solution URL: [GitHub repo](https://github.com/ainagutierrez01/Multi-step-form)
+- Live Site URL: [GitHub Pages](https://effulgent-pika-749150.netlify.app/)
 
 ## My process
 
